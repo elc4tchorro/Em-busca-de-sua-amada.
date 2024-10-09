@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(31, 30, 29);
+    color: white;
+    font-family: "Croissant One", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center 
+    height: 700px;
+    margin: 0px;
+}
+
+
+button {
+    background-color: #64A712;
+    color: white 
+    font-family: "Croissant One", serif;
+   
+}
+
+
+.passo {
+    display: none;
+
+}
+
+
+.passo.ativo {
+
+
+    display: block
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+
+}
+
+img {
+    width: 650px;
+}
